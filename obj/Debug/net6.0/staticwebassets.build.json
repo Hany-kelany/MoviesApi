@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CVEcE/9HSJHlFbd6YRBbAu01AH3xI8gRJm/7H0+SKYY=",
+  "Source": "DevCreedApi2",
+  "BasePath": "_content/DevCreedApi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
